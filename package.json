@@ -1,0 +1,19 @@
+{
+  "name": "testing-n-types-exercise",
+  "version": "1.0.0",
+  "author": "Andreas Storesund Madsen <andreas@asmadsen.no>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui"
+  },
+  "devDependencies": {
+    "@asmadsen/prettier-config": "^2.0.1",
+    "@vitest/ui": "^0.34.3",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9",
+    "vitest": "^0.34.3"
+  },
+  "prettier": "@asmadsen/prettier-config"
+}
